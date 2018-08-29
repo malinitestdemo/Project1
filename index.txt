@@ -1,6 +1,6 @@
 <html>
 <body>
-<p>Adding my code dev2</p>
+<p>Adding my code dev2.</p>
 <p>Adding my code dev1.</p>
 </body>
 </html>
